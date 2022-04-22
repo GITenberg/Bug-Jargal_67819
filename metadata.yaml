@@ -1,0 +1,40 @@
+_repo: Bug-Jargal_67819
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Galiano, D. Alcalá
+    gutenberg_agent_id: '54476'
+    url: http://www.gutenberg.org/2009/agents/54476
+creator:
+  author:
+    agent_name: Hugo, Victor
+    aliases:
+    - Hugo, Victor Marie, comte
+    - Hugo, Víctor
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Victor_Hugo
+    - https://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2022-04-12'
+identifiers:
+  gutenberg: '67819'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89104413158&view=1up&seq=1
+pgterms:marc905: 20201017074630hugo
+pgterms:marc906: '1920'
+pgterms:marc907: ES
+production_note: Carlos Colon, the University of Wisconsin-Madison and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This book was produced from
+  images made available by the HathiTrust Digital Library.)
+publication_note: Spain :Calpe,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bug-Jargal
+url: http://www.gutenberg.org/ebooks/67819
