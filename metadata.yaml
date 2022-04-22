@@ -5,6 +5,9 @@ contributor:
     agent_name: Galiano, D. Alcalá
     gutenberg_agent_id: '54476'
     url: http://www.gutenberg.org/2009/agents/54476
+covers:
+- cover_type: archival
+  image_path: 67819-h/images/cover.jpg
 creator:
   author:
     agent_name: Hugo, Victor
@@ -19,6 +22,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Victor_Hugo
     - https://en.wikipedia.org/wiki/Victor_Hugo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67819#Bug-Jargal
 gutenberg_issued: '2022-04-12'
 identifiers:
   gutenberg: '67819'
